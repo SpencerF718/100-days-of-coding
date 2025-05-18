@@ -2,9 +2,19 @@
 
 ## Details
 
-Starting 5-18-25, ending 8-26-25, I will be participating in a 100 days of code challenge
+This repo contains my **100 Days of Coding** challenge, starting **May 18, 2025** and ending **August 26, 2025**.
+The goal of this project is to build approximately 15 projects (one project per week) and to commit daily.
 
-The goal of this challenge is the create a project, each of which lasting around a week, and to commit daily.
+## How to View
 
-Every project will have a corresponding folder in this repo, each with their own README
+Each project will have a corresponding folder within this repo (i.e. Project #1 - Maze Solver).
+Within each project folder, there will be a README that details the project.
+
+## Project List
+
+| Week | Project Name           | Folder         | Description                     |
+|-------|-----------------------|----------------|--------------------------------|
+| 1     | Maze Solver        | `Project #1 - Maze Solver`   | Lorem Ipsum |
+
+
 
